@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow:
+Allow: /index.html
+Disallow: /sitemap.xml
+Disallow: /google12ce61b0931874a7.html
+Disallow: /BingSiteAuth.xml
+
+Sitemap: https://www.quantumsoft.com.br/sitemap.xml

@@ -1,0 +1,38 @@
+:root {
+	--main-color: #004571;
+	--main-color-light: #01598f;
+	--main-orange-color: #607D8B;
+  }
+
+h1{
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+}
+
+body h2{
+  text-align: left;
+  color: var(--main-color);
+}
+
+.conteudo-total{
+  background-color: var(--main-color);
+}
+
+.linha{
+  border: 2px solid white;
+}
+
+.container-conteudo{
+  background-color: white;
+  padding: 20px 50px;
+  -webkit-box-shadow: 0px 0px 48px -9px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 48px -9px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 48px -9px rgba(0,0,0,0.75);
+  margin-bottom: 30px;
+}
+
+.painel{
+  text-align: left;
+  padding-top: 20px;
+}
